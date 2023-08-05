@@ -3,6 +3,9 @@
 
 * Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
 
+### Skills 
+SQL & MySql, Python, Microsoft Excel, Tableau, Data Analysis & Visualization, Machine Learning, Numpy, Pandas, Web Scraping, AWS, Probabilistic Modelling
+
 ### My Projects
 * ### Web scraping and Crawling using Scrapy [(View)](https://jovian.com/av-sngh/webscraping-using-scrapy)
   * Scraped research papers from a  journal on the 'Springer' website
