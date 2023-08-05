@@ -1,4 +1,4 @@
-### I have completed
+### I have completed: 
 * Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
 * Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
