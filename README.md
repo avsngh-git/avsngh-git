@@ -1,12 +1,17 @@
 ### I have completed: 
 * Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
-* Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
+* Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects in Jovian.ai Data Science Bootcamp (Web scraping, EDA, Tableau)
 
 ### Skills:
 SQL & MySql, Python, Microsoft Excel, Tableau, Data Analysis & Visualization, Machine Learning, Numpy, Pandas, Web Scraping, AWS, Probabilistic Modelling
 
 ### My Projects:
+* ### Time-Series forecasting Favourita Stores sales forecasting.
+  * Cleaned and Analysed 3,000,000 rows of data
+  * Trained models such as Linear Regression and LightGBM using Darts Library
+  * Used the strategy of training 33 LightGBM models each of which specialized in making predictions for a single product family.
+  * This novel strategy got a score of 0.38202 and got placed in top 4 percent for this Kaggle competition.
 * ### Web scraping and Crawling using Scrapy [(View)](https://jovian.com/av-sngh/webscraping-using-scrapy)
   * Scraped research papers from a  journal on the 'Springer' website
   * Used tools like CSS Selectors, Item, Objects, Item Pipelines to Scrape, Process and Load data.
