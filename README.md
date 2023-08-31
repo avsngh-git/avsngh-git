@@ -7,7 +7,7 @@
 SQL & MySql, Python, Microsoft Excel, Tableau, Data Analysis & Visualization, Machine Learning, Numpy, Pandas, Web Scraping, AWS, Probabilistic Modelling
 
 ### My Projects:
-* ### Time-Series forecasting Favourita Stores sales forecasting. [view](https://github.com/avsngh-git/Favorita-store-sales-prediction)
+* ### Time-Series forecasting Favourita Stores sales forecasting. [(View)](https://github.com/avsngh-git/Favorita-store-sales-prediction)
   * Cleaned and Analysed 3,000,000 rows of data
   * Trained models such as Linear Regression and LightGBM using Darts Library
   * Used the strategy of training 33 LightGBM models each of which specialized in making predictions for a single product family.
